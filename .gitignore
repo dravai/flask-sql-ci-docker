@@ -1,0 +1,4 @@
+secrets.env
+*/dev.db
+*/migrations/**
+**/__pycache__/**
